@@ -16,8 +16,8 @@ Clicking on the cluster icons in the legend or on the lines in the lower left pl
 
 ![cluster7](cluster7_view.png)
 
-Files:
-------
+Files
+-----
 
  - msm.ipynb : Jupyter notebook, containing a description of the background of this contribution, pre-requirements to draw the interactive plot, and the interactive plot itself.
  - data/ :
